@@ -1,6 +1,6 @@
 # Online Shopping System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 
 ## Table of Contents
 
@@ -105,7 +105,5 @@ The application simulates browsing, adding/removing products from the cart, plac
   - GeeksForGeeks
   - Oracle Docs
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-"""
+
 
