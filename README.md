@@ -81,6 +81,7 @@ ChatGPT was used throughout the project to:
 - Resolve compilation errors and design issues
 - Improve GUI structure and usability
 - Document README and project report
+[📄 AI/GPT Usage Report (PDF)](GPTUSAGE.pdf)
 
 ## Project Report
 **Introduction:**  
